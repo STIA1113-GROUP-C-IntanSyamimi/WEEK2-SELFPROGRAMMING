@@ -1,0 +1,59 @@
+public class Addition {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	System.out.println("24 and 45 concatenated:"+ 24+ 45);
+	System.out.println("24 and 45 added:" + (24+45));
+	
+	}
+
+}
+
+public class Facts {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+    System.out.println("We present the following facts for your"+ "extracurricular edification:");
+    
+    System.out.println();
+    
+    System.out.println("Letters in Hawaiian alphabet: 12");
+    
+    System.out.println("Dialing code for Antarctica:"+ 672);
+    
+    System.out.println("Year in which Leonardo da Vinci invented"+ "the parachute:"+ 1515);
+
+    System.out.println("Speed of ketchup: "+ 40+ "km per year");
+	}
+
+}
+
+public class QuickCheck1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	System.out.println("X:"+25);
+	System.out.println("Y:"+(15+50));
+	System.out.println("Z:"+300+50);
+	}
+
+}
+
+public class QuickCheck2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	System.out.println("\"Thank you all for"+ "coming to my home\ntonight,\"he said "+ "mysteriously.");
+	}
+
+}
+
+public class Rosses {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	System.out.println("Rosses are red,\n\tViolet are blue.\n"+"Sugar is sweet,\n\tBut I have\"commitment issues\",\n\t"+"So I'd rather just be friends\n\tAt this point in our "+ "relationship.");
+	}
+
+}
+
